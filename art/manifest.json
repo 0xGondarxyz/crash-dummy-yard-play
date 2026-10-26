@@ -1,0 +1,134 @@
+{
+  "room.webp": {
+    "width": 1672,
+    "height": 941
+  },
+  "dummy/smug.webp": {
+    "width": 185,
+    "height": 234
+  },
+  "dummy/pain.webp": {
+    "width": 185,
+    "height": 239
+  },
+  "dummy/scared.webp": {
+    "width": 180,
+    "height": 237
+  },
+  "dummy/dizzy.webp": {
+    "width": 182,
+    "height": 237
+  },
+  "dummy/cry.webp": {
+    "width": 184,
+    "height": 237
+  },
+  "dummy/ko.webp": {
+    "width": 188,
+    "height": 239
+  },
+  "dummy/torso.webp": {
+    "width": 257,
+    "height": 303
+  },
+  "dummy/pelvis.webp": {
+    "width": 217,
+    "height": 134
+  },
+  "dummy/upperArmL.webp": {
+    "width": 73,
+    "height": 229
+  },
+  "dummy/lowerArmL.webp": {
+    "width": 135,
+    "height": 258
+  },
+  "dummy/upperArmR.webp": {
+    "width": 72,
+    "height": 229
+  },
+  "dummy/lowerArmR.webp": {
+    "width": 136,
+    "height": 261
+  },
+  "dummy/thighL.webp": {
+    "width": 84,
+    "height": 205
+  },
+  "dummy/shinL.webp": {
+    "width": 146,
+    "height": 271
+  },
+  "dummy/thighR.webp": {
+    "width": 83,
+    "height": 205
+  },
+  "dummy/shinR.webp": {
+    "width": 153,
+    "height": 271
+  },
+  "items/mallet.webp": {
+    "width": 217,
+    "height": 256
+  },
+  "items/pan.webp": {
+    "width": 248,
+    "height": 239
+  },
+  "items/tomato.webp": {
+    "width": 240,
+    "height": 226
+  },
+  "items/bowling.webp": {
+    "width": 231,
+    "height": 231
+  },
+  "items/glove.webp": {
+    "width": 203,
+    "height": 256
+  },
+  "items/bat.webp": {
+    "width": 230,
+    "height": 256
+  },
+  "items/firecracker.webp": {
+    "width": 188,
+    "height": 256
+  },
+  "items/anvil.webp": {
+    "width": 256,
+    "height": 209
+  },
+  "items/tnt.webp": {
+    "width": 235,
+    "height": 256
+  },
+  "items/rocket.webp": {
+    "width": 202,
+    "height": 256
+  },
+  "items/lightning.webp": {
+    "width": 167,
+    "height": 256
+  },
+  "items/coin.webp": {
+    "width": 95,
+    "height": 96
+  },
+  "items/crate.webp": {
+    "width": 272,
+    "height": 268
+  },
+  "fx/dent.webp": {
+    "width": 159,
+    "height": 160
+  },
+  "fx/crack.webp": {
+    "width": 157,
+    "height": 160
+  },
+  "fx/tape.webp": {
+    "width": 160,
+    "height": 150
+  }
+}
